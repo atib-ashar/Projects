@@ -1,0 +1,74 @@
+Adjust server address, if you are not using @outlook
+
+#--------Outlook-----#
+PORT = 587  
+EMAIL_SERVER = "smtp-mail.outlook.com" 
+
+
+sender_email ="im.ashar69@gmail.com"
+password_email ="nprd jtkm igds kjld"
+
+
+EMAIL=im.ashar69@gmail.com
+PASSWORD=flkd cxqa iizv ebag
+
+
+/*Dear {name},<br>
+
+/*I hope this message finds you well. I wanted to touch base regarding the outstanding invoice {invoice_no} dated [Invoice Date], which remains unpaid. We understand that sometimes these matters slip through the cracks, so I'm reaching out to kindly remind you of the pending payment.
+
+/*Here are the details of the invoice:<br>
+
+/*Invoice Number: {invoice_no}<br>
+/*Invoice Date: <strong>{due_date}</strong><br>
+//Amount Due: <strong>{amount} USD</strong><br>
+
+//As a valued client/customer, your prompt attention to this matter would be greatly appreciated.
+//If there are any issues or discrepancies with the invoice, please don't hesitate to reach out to me directly so that we can resolve them promptly.
+
+//To facilitate the payment process, I've included the payment details below:
+
+//[Payment Instructions/Methods]
+
+//Thank you for your attention to this matter, and I look forward to receiving the payment at your earliest convenience.
+
+//Best regards,
+
+        <h1 style="display: inline;
+        color:#003087;">Pay</h1><h1 style="display: inline;color: #009cde;">Pal</h1>
+
+
+
+
+Paypal logo--->
+
+ <!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center"><a href="https://www.paypal.com/in/webapps/mpp/paypal-popup" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/in/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png" border="0" alt="PayPal Logo"></a></td></tr></table><!-- PayPal Logo -->
+
+
+
+
+
+
+ <p style = "color: black"><strong>Invoice ID: {invoice_no}</p>
+        <p style = "color:black">Date: <strong>{due_date}</strong></p>
+        <p style = "color:black">Hello, <strong>{name}<strong></p>
+
+                <h3 style = "text-decoration:underline">Product Details:</h3>
+
+
+
+
+
+
+                beholypjohnson@gmail.com,Christy,SDG57GHF6699,489,05/23/2024,05/24/2024,no
+heidibradford48@gmail.com,Heidi,SDG57GHF6699,489,05/23/2024,05/24/2024,no
+charlesrosario@ymail.com,Charles,SDG57GHF6699,489,05/23/2024,05/24/2024,no
+linmyo@yahoo.com,Myo,SDG57GHF6699,489,05/23/2024,05/24/2024,no
+tamala.johnson12@yahoo.com,Tamala,SDG57GHF6699,489,05/23/2024,05/24/2024,no
+
+
+
+
+sender_email ="crypto.care0055@gmail.com"
+password_email ="wono sutm kdrr zjeh"
+
