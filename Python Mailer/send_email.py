@@ -19,18 +19,15 @@ EMAIL_SERVER = "smtp.gmail.com"  # Adjust server address, if you are not using @
 # sender_email = os.getenv("EMAIL")
 # password_email = os.getenv("PASSWORD")
 
-# sender_email ="conradhutchinson375@gmail.com"
-# password_email ="phnw xiou giro iuyp"
-
-sender_email ="im.ashar69@gmail.com"
-password_email ="nprd jtkm igds kjld"
+sender_email ="YOUR EMAIL"
+password_email ="YOUR APP PASSWORD"
 
 
 def send_email(subject, receiver_email, name, due_date, invoice_no, amount):
     # Create the base text message.
     msg = EmailMessage()
     msg["Subject"] = subject
-    msg["From"] = formataddr(("Norton Security", f"{sender_email}"))
+    msg["From"] = formataddr(("SENDER NAME", f"{sender_email}"))
     msg["To"] = receiver_email
     msg["BCC"] = sender_email
 
@@ -63,15 +60,8 @@ def send_email(subject, receiver_email, name, due_date, invoice_no, amount):
 
             <p>Invoice Date: <strong>{due_date}</strong><p><br>
             <p>Dear {name},<p>
-            <p><strong>Thank you for using Norton Security Antivirus.<strong></p>
-            <p>Your Subscription to Norton Anti-Virus has been activated today, and you have been charged ${amount}. This subscription will auto-renew according to selected plan. Please review your purchase summary in the attached invoice.</p>
-            <br>
-            <p>If you have any questions or concerns about this transaction. Contact us at,<br> <strong>Customer Support Number: <strong style = "color: blue">+1 (83) 2426 3444.</strong> within the next 24 hours.</strong></p>
-            <br><br>
-            <p>Please note that this mailbox is not monitored. Do not reply to this email.</p>
-            <br>
-            <p style = "text-align: center">©NortonSecurity</p>
-
+            <p><strong>Thank you for using COMPANY NAME.<strong></p>
+            <p>Your Subscription to COMPANY NAME has been activated today, and you have been charged ${amount}.<p>
         </div>
       </body>
     </html>
