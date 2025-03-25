@@ -5,7 +5,7 @@ from send_email import send_email  # local python module
 
 
 # Public GoogleSheets url - not secure!
-# SHEET_ID = "1Ly42ItWRzr8LNixCGJTkUnsRu0XIixdmug04yigN9CI"  # !!! CHANGE ME !!!
+# SHEET_ID = "GOOGLE SHEET ID"  # !!! CHANGE ME !!!
 # SHEET_NAME = "Sheet1"  # !!! CHANGE ME !!!
 URL = "Invoice.csv"
 
